@@ -1,0 +1,3 @@
+this is Sample learning project..So we want to commit this file into the Git repository.
+
+So use commands to commit this file
